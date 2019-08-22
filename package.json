@@ -1,6 +1,6 @@
 {
   "name": "xmllint-jsparser",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "xmllint patched to be regular node module which can be packaged for browser by webpack. Based on https://github.com/kripken/xml.js",
   "main": "xmllint.js"
 }
